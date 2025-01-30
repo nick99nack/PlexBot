@@ -5,7 +5,7 @@ PlexBot: Plex music bot for Discord
 Requirements: Python 3.x and ffmpeg
 
 Installation:
-   1. Install discord.py and plexapi using pip
+   1. Install discord.py, plexapi, audioop-lts, and PyNaCl using pip
    2. Fill out your Discord bot token, Plex URL & token, and the ID of the DJ role
       in your server.
    3. Run: python3 plexbot.py
